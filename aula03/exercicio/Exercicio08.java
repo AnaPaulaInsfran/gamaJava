@@ -1,22 +1,28 @@
-package exercicios;
+package exercicio;
 
-public class Exercicio07 {
+public class Exercicio08 {
+    
     public static void main(String[] args) {
         
+    
         int cont;
+
 
         cont = 100;
 
-        while (cont <= 200) {
+        while (cont <=200) {
 
             System.out.print(cont + " ");
-        
-            cont ++; 
+
+            cont++;
             
         }
+       
 
-        System.out.println("Fim");
+
+
+
+
 
     }
-    
 }
